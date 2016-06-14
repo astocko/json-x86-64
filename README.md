@@ -1,5 +1,5 @@
 # json-x86-64
-x86-64 Intel instruction set in JSON format
+x86-64 Intel instruction set (up to AVX-512) in JSON format
 
 # Documentation
 See https://opcodes.readthedocs.io/opcodes.html#module-opcodes.x86_64 for field specifications.
